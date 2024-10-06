@@ -20,7 +20,7 @@ This repository is licensed under the MIT License.
 ---
 
 ## Official Course Page
-For a detailed view of the course, visit the official page: [Click here](https://github.com/ganeshy550/LEARN-JAVA-WITH-MAWA/blob/main/README.md)
+For a detailed view of other courses, visit the official page: [Click here](https://github.com/ganeshy550/LEARN-JAVA-WITH-MAWA/blob/main/README.md)
 
 ---
 
